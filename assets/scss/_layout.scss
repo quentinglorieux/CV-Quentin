@@ -10,12 +10,13 @@
 
         @media screen {
             &::after {
-                content: '2020 © by Inês Almeida   |   ines-almeida.com';
+                content: '2023 - Quentin Glorieux - Laboratoire Kastler Brossel - Sorbonne Université - CNRS - ENS - Paris';
                 height: 4rem;
                 width: 100%;
                 position: absolute;
                 bottom: 0.5rem;
-                color: darken($color-light, 10%);
+                padding-top: 10px;
+                color: darken($color-light, 7%);
             }
         }
     }
