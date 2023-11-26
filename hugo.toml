@@ -11,6 +11,22 @@ title = 'Quentin Glorieux'
     languageName = 'Français'
     weight = 1
     [languages.fr.params]
+        enableMetaTags = true
+        colorLight = "#fff"
+        colorDark = "#666"
+        colorPageBackground = "#ddd"
+        colorPrimary = "#779D97"
+        colorSecondary = "#aaa"
+        colorIconPrimary = "#fff"
+        colorIconBackground = "#779D97"
+        colorRightColumnBackground = "#f5f5f5"
+        colorRightColumnHeadingText = "#666"
+        colorRightColumnBodyText = "#666"
+        colorRightColumnIconPrimary = "#fff"
+        colorRightColumnIconBackground = "#8DBAB3"
+        pages = 1
+        # Set this param to 'true' to swap the bar positions
+        swapColumns = false
   [languages.en]
     contentDir = 'data/en'
     disabled = false
@@ -19,7 +35,22 @@ title = 'Quentin Glorieux'
     languageName = 'English'
     weight = 2
     [languages.en.params]
-
+       enableMetaTags = true
+        colorLight = "#fff"
+        colorDark = "#666"
+        colorPageBackground = "#ddd"
+        colorPrimary = "#779D97"
+        colorSecondary = "#aaa"
+        colorIconPrimary = "#fff"
+        colorIconBackground = "#779D97"
+        colorRightColumnBackground = "#f5f5f5"
+        colorRightColumnHeadingText = "#666"
+        colorRightColumnBodyText = "#666"
+        colorRightColumnIconPrimary = "#fff"
+        colorRightColumnIconBackground = "#8DBAB3"
+        pages = 1
+        # Set this param to 'true' to swap the bar positions
+        swapColumns = false
 
 enableRobotsTXT = true
 enableEmoji = true
@@ -29,20 +60,3 @@ disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 baseURL = "https://quentinglorieux.fr/"
 #googleAnalytics = ""
 
-[params]
-enableMetaTags = true
-colorLight = "#fff"
-colorDark = "#666"
-colorPageBackground = "#ddd"
-colorPrimary = "#779D97"
-colorSecondary = "#aaa"
-colorIconPrimary = "#fff"
-colorIconBackground = "#779D97"
-colorRightColumnBackground = "#f5f5f5"
-colorRightColumnHeadingText = "#666"
-colorRightColumnBodyText = "#666"
-colorRightColumnIconPrimary = "#fff"
-colorRightColumnIconBackground = "#8DBAB3"
-pages = 1
-# Set this param to 'true' to swap the bar positions
-swapColumns = false
