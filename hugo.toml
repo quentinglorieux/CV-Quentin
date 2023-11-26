@@ -4,7 +4,7 @@ defaultContentLanguageInSubdir = false
 title = 'Quentin Glorieux'
 [languages]
   [languages.fr]
-    contentDir = 'data/fr'
+    contentDir = 'content/fr'
     disabled = false
     languageCode = 'fr-FR'
     languageDirection = 'ltr'
@@ -28,7 +28,7 @@ title = 'Quentin Glorieux'
         # Set this param to 'true' to swap the bar positions
         swapColumns = false
   [languages.en]
-    contentDir = 'data/en'
+    contentDir = 'content/en'
     disabled = false
     languageCode = 'en-US'
     languageDirection = 'ltr'
