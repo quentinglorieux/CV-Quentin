@@ -1,0 +1,112 @@
+BasicInfo:
+  FirstName: Quentin
+  LastName: Glorieux
+  Photo: img/avatar.png
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +33 1 4427 4393
+    - Icon: fas fa-envelope
+      Info: quentin.glorieux@lkb.upmc.fr
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://quentinglorieux.fr" target="_blank">quentinglorieux.fr</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Larchant, France
+
+Profile: Associate Professor at Sorbonne University. Quantum Fluids of Light Group leader at LKB, Paris. IUF Junior Fellow.  Quantum Optics and Quantum Engineering experimental physicist.
+ 
+
+Experience:
+  - Employer: Sorbonne University
+    Place: Paris, France
+    Positions:
+      - Title: Associate Professor at LKB
+        Date: Sep 2013 - Present
+        Details:
+          - Group leader at the Kastler Brossel Laboratory (LKB)
+          - PI of the MistiQ-Light ERC CoG project
+          - Quantum Optics research about quantum fluids of light with warm atomic vapors and exciton-polariton semi-conductor micro-cavities
+          - Photonic Quantum Technologies research about interactions between nano-emitters (SiV nanodiamonds, perovskite, colloidal quantum dots) and nanowaveguides (tappered fibers).
+          - Teaching Quantum mechanics, Optics, Experimental physics, and Scientific computing
+        Badges: ['Quantum gases', 'Quantum Optics',  'Fluids of light', 'Nanophotonics']
+      
+  - Employer: National Institute of Standards & Technologies (NIST)
+    Place: Gaithersburg, USA
+    Positions:
+      - Title: Marie Curie Postdoctoral Fellow
+        Date: Oct 2010 - Sep 2013
+        Details:
+          - Joint Quantum Institute (JQI), Laser Cooling & Trapping group
+          - Under the supervision of Bill Phillips and Paul D. Lett 
+          - Research about four-wave mixing and atomic vapor photonic memory
+        Badges: ['Ultra-cold atoms', 'Quantum Optics', 'Quantum Memory']
+  - Employer: Australian National University (ANU)
+    Place: Canberra.
+    # Class: "experience__extra_padding"
+    Positions:
+      - Title: Invited Postdoctoral Fellow 
+        Date: 2012 (6 months)
+        Details:
+          - Quantum Optics group of Prof. Ping Koy Lam 
+          - Research about quantum memory in cold atomic clouds and ultra-large atomic MOT
+        Badges: [ 'Quantum Memory','MOT', 'Ultra-high optical depth']
+
+Education:
+  - Course: PhD in Physics
+    Place: Université Paris Diderot, Laboratoire Matériaux et Phénomènes Quantiques. France
+    Date: Sep 2007 - Sep 2010
+    Details:   Theory and Experiments on multimode entanglement using Four-Wave-Mixing in a hot atomic vapor directed by Prof. Thomas Coudreau. 
+  - Course: Master  in Optics and Photonics
+    Place: Ecole Polytechnique & Institut d’Optique, France
+    Date: Sep 2006 - Sep 2007
+    Details:   Academic/Research at ICFO - Prof. Juergen Eschner Group - Spain
+  - Course: Engineer Degree in Optics
+    Place: Institut d’Optique – Graduate School, Franc
+    Date: Sep 2003 - Sep 2007
+
+
+Skills:
+
+  - Family: Experiments
+    Items:
+      - Quantum Optics
+      - Atomic Physics
+      - Ultra-cold atoms
+      - Nanophotonics
+  - Family: Programming
+    Items:
+      - Python
+      - HTML
+      - Javascript
+      - SQL
+      - MATLAB
+      - LateX
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Server administration
+
+
+Languages:
+  - Name: Français
+    Level: Native
+  - Name: English
+    Level: Fluent
+  - Name: Spanish
+    Level: B1
+  - Name: German
+    Level: A2
+
+Diplomas:
+  - Habilitation - HDR  (2018)
+  - PhD in Physics (2010)
+  - Master Optics and Photonics (2007)
+  - Engineering degree in Optics (2007)
+
+Interests:
+  - Bouldering
+  - Kayaking
+  - Trail Running
+  - Web dev
+  - Ecology
+  - Feminism

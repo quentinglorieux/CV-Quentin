@@ -1,0 +1,111 @@
+BasicInfo:
+  FirstName: Quentin
+  LastName: Glorieux
+  Photo: /img/avatar.png
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +33 1 4427 4393
+    - Icon: fas fa-envelope
+      Info: quentin.glorieux@lkb.upmc.fr
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://quentinglorieux.fr" target="_blank">quentinglorieux.fr</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Larchant, France
+
+Profile: Maître de Conférences à Sorbonne Université.  Responsable du groupe Fluides Quantiques de Lumière au LKB. Membre junior de l'IUF. <br> Physicien expérimental en optique & technologie quantique.
+
+Experience:
+  - Employer: Sorbonne Université 
+    Place: Paris, France
+    Positions:
+      - Title: Maître de Conférences au LKB
+        Date: Sep 2013 - Présent
+        Details:
+          - Responsable du groupe Fluides Quantiques de Lumière au Laboratoire Kastler Brossel (LKB)
+          - Porteur du projet ERC CoG MistiQ-Light
+          - Recherche sur les fluides quantiques de lumière dans des vapeurs atomiques chaudes et des microcavités semi-conductrices exciton-polariton
+          - Recherche sur les technologies quantiques photoniques en particulier les interactions entre nano-émetteurs (nanodiamants SiV, pérovskite, boites quantiques) et des nanoguides d'ondes.
+          - Enseignement de la mécanique quantique, de l'optique, de la physique expérimentale et du calcul scientifique
+        Badges: ['Gaz quantiques', 'Optique quantique', 'Fluides de lumière', 'Nanophotonique']
+      
+  - Employer: National Institute of Standards & Technologies (NIST)
+    Place: Gaithersburg, USA
+    Positions:
+      - Title: Chercheur postdoctoral Marie Curie
+        Date: Oct 2010 - Sept 2013
+        Details:
+          - Joint Quantum Institute (JQI), Groupe de refroidissement et piégeage laser
+          - Sous la supervision de Bill Phillips et Paul D. Lett 
+          - Recherche sur le mélange à quatre ondes et les mémoires quantiques en vapeur atomique
+        Badges: ['Atomes ultra-froids', 'Optique quantique', 'Mémoire quantique']
+  - Employer: Australian National University (ANU)
+    Place: Canberra.
+    # Class: "experience__extra_padding"
+    Positions:
+      - Title: Chercheur postdoctoral invité 
+        Date: 2012 (6 mois)
+        Details:
+          - Groupe d'optique quantique du Prof. Ping Koy Lam 
+          - Recherche sur les mémoires quantiques dans des nuages atomiques froids et les MOT atomiques géants
+        Badges: ['Mémoire quantique', 'MOT', 'Interaction lumière-matière']
+
+Education:
+  - Course: Doctorat en Physique
+    Place: Université Paris Diderot, Laboratoire Matériaux et Phénomènes Quantiques. France
+    Date: Sep 2007 - Sep 2010
+    Details:   Théorie et expériences sur l'intrication multimode en utilisant le mélange à quatre ondes dans une vapeur atomique chaude. Dirigée par le Prof. Thomas Coudreau. 
+  - Course: Master en Optique et Photonique
+    Place: École Polytechnique & Institut d’Optique, France
+    Date: Sep 2006 - Sep 2007
+    Details:   Recherche à l'ICFO - Groupe du Prof. Juergen Eschner - Espagne
+  - Course: Diplôme d'ingénieur en Optique
+    Place: Institut d’Optique – École Supérieure d'Optique, France
+    Date: Sep 2003 - Sep 2007
+
+
+Skills:
+
+  - Family: Expériences
+    Items:
+      - Optique quantique
+      - Physique atomique
+      - Atomes ultra-froids
+      - Nanophotonique
+  - Family: Programmation
+    Items:
+      - Python
+      - HTML
+      - Javascript
+      - SQL
+      - MATLAB
+      - LateX
+  - Family: Outils de développement
+    Items:
+      - Git
+      - Docker
+      - Administration de serveur
+
+
+Languages:
+  - Name: Français
+    Level: Natif
+  - Name: Anglais
+    Level: Courant
+  - Name: Spanish
+    Level: B1
+  - Name: German
+    Level: A2
+
+Diplomas:
+  - Habilitation à diriger des recherches  
+  - Doctorat en Physique
+  - Master en Optique et Photonique 
+  - Diplôme d'ingénieur en Optique 
+
+Interests:
+  - Escalade
+  - Kayak
+  - Trail
+  - Dév. web
+  - Écologie
+  - Féminisme
