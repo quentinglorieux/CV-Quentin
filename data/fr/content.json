@@ -30,7 +30,7 @@
         "Positions": [
           {
             "Title": "Maître de Conférences au LKB",
-            "Date": "Sep 2013 - Présent",
+            "Date": "Sept 2013 - Présent",
             "Details": [
               "Responsable du groupe Fluides Quantiques de Lumière au Laboratoire Kastler Brossel (LKB)",
               "Porteur du projet ERC CoG MistiQ-Light",
@@ -48,8 +48,8 @@
         ]
       },
       {
-        "Employer": "National Institute of Standards & Technologies (NIST)",
-        "Place": "Gaithersburg, USA",
+        "Employer": "National Institute of Standards & Technologies. NIST",
+        "Place": "Gaithersburg, US",
         "Positions": [
           {
             "Title": "Chercheur postdoctoral Marie Curie",
@@ -68,7 +68,7 @@
         ]
       },
       {
-        "Employer": "Australian National University (ANU)",
+        "Employer": "Australian National University. ANU",
         "Place": "Canberra.",
         "Positions": [
           {
@@ -90,20 +90,20 @@
     "Education": [
       {
         "Course": "Doctorat en Physique",
-        "Place": "Université Paris Diderot, Laboratoire Matériaux et Phénomènes Quantiques. France",
-        "Date": "Sep 2007 - Sep 2010",
+        "Place": "Université Paris Diderot, Laboratoire Matériaux & Phénomènes Quantiques. France",
+        "Date": "Sept 2007 - Sept 2010",
         "Details": "Théorie et expériences sur l'intrication multimode en utilisant le mélange à quatre ondes dans une vapeur atomique chaude. Dirigée par le Prof. Thomas Coudreau."
       },
       {
         "Course": "Master en Optique et Photonique",
         "Place": "École Polytechnique & Institut d’Optique, France",
-        "Date": "Sep 2006 - Sep 2007",
+        "Date": "Sept 2006 - Sept 2007",
         "Details": "Recherche à l'ICFO - Groupe du Prof. Juergen Eschner - Espagne"
       },
       {
         "Course": "Diplôme d'ingénieur en Optique",
         "Place": "Institut d’Optique – École Supérieure d'Optique, France",
-        "Date": "Sep 2003 - Sep 2007"
+        "Date": "Sept 2003 - Sept 2007"
       }
     ],
     "Skills": [

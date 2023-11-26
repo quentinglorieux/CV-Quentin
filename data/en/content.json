@@ -30,7 +30,7 @@
         "Positions": [
           {
             "Title": "Associate Professor at LKB",
-            "Date": "Sep 2013 - Present",
+            "Date": "Sept 2013 - Present",
             "Details": [
               "Group leader at the Kastler Brossel Laboratory (LKB)",
               "PI of the MistiQ-Light ERC CoG project",
@@ -48,12 +48,12 @@
         ]
       },
       {
-        "Employer": "National Institute of Standards & Technologies (NIST)",
-        "Place": "Gaithersburg, USA",
+        "Employer": "National Institute of Standards & Technologies. NIST",
+        "Place": "Gaithersburg, US",
         "Positions": [
           {
             "Title": "Marie Curie Postdoctoral Fellow",
-            "Date": "Oct 2010 - Sep 2013",
+            "Date": "Oct 2010 - Sept 2013",
             "Details": [
               "Joint Quantum Institute (JQI), Laser Cooling & Trapping group",
               "Under the supervision of Bill Phillips and Paul D. Lett",
@@ -68,8 +68,8 @@
         ]
       },
       {
-        "Employer": "Australian National University (ANU)",
-        "Place": "Canberra.",
+        "Employer": "Australian National University. ANU",
+        "Place": "Canberra, Australia",
         "Positions": [
           {
             "Title": "Invited Postdoctoral Fellow",
@@ -90,20 +90,20 @@
     "Education": [
       {
         "Course": "PhD in Physics",
-        "Place": "Université Paris Diderot, Laboratoire Matériaux et Phénomènes Quantiques. France",
-        "Date": "Sep 2007 - Sep 2010",
+        "Place": "Université Paris Diderot, Laboratoire Matériaux & Phénomènes Quantiques. France",
+        "Date": "Sept 2007 - Sept 2010",
         "Details": "Theory and Experiments on multimode entanglement using Four-Wave-Mixing in a hot atomic vapor directed by Prof. Thomas Coudreau."
       },
       {
         "Course": "Master  in Optics and Photonics",
         "Place": "Ecole Polytechnique & Institut d’Optique, France",
-        "Date": "Sep 2006 - Sep 2007",
+        "Date": "Sept 2006 - Sept 2007",
         "Details": "Academic/Research at ICFO - Prof. Juergen Eschner Group - Spain"
       },
       {
         "Course": "Engineer Degree in Optics",
         "Place": "Institut d’Optique – Graduate School, Franc",
-        "Date": "Sep 2003 - Sep 2007"
+        "Date": "Sept 2003 - Sept 2007"
       }
     ],
     "Skills": [
